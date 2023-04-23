@@ -1,0 +1,9 @@
+.FieldBlock{
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+}
